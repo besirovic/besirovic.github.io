@@ -1,5 +1,6 @@
 {
   "version": 2,
+  "name": "ademirbesirovic.dev",
   "alias": "ademirbesirovic.now.sh",
   "builds": [{ "src": "next.config.js", "use": "@now/next" }]
 }
