@@ -58,6 +58,12 @@ const IndexPage = () => (
 				color: #fff;
 				margin: 0;
 			}
+
+			@media (max-width: 768px) {
+				.container {
+					padding: 30px;
+				}
+			}
 		`}</style>
 	</React.Fragment>
 );
